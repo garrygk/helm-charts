@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  titanicapi:
+  - apiVersion: v2
+    appVersion: 1.19.0
+    created: "2022-01-22T19:38:26.322178+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 949d79984a74195b09033bf1411e0367548ae306d7af684c525a917dd005a0bb
+    name: titanicapi
+    type: application
+    urls:
+    - titanicapi-0.1.4.tgz
+    version: 0.1.4
+  titanicfrontend:
+  - apiVersion: v2
+    appVersion: 1.22.0
+    created: "2022-01-22T19:38:26.322768+02:00"
+    description: A Helm chart for Kubernetes
+    digest: bc85a8ab9dc489059d6ac30ea7cf3381347d5176e2d3ae4a8beb2f0fc11dae65
+    name: titanicfrontend
+    type: application
+    urls:
+    - titanicfrontend-0.1.8.tgz
+    version: 0.1.8
+generated: "2022-01-22T19:38:26.321598+02:00"
